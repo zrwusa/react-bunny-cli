@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-$ npm install react-bunny -g
+$ npm install react-bunny-cli -g
 ```
 
 ## Usage
