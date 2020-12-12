@@ -12,6 +12,5 @@ echo "publishing..."
 npm publish
 
 
-npm config set registry=https://registry.npm.taobao.org
 echo -e "\n published \n"
 exit
